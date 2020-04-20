@@ -37,7 +37,7 @@ public class AppTest
     @Test
     public void testAnnuaireComplet() {
 
-       /* Annuaire a = Annuaire.getInstance();
+        Annuaire a = Annuaire.getInstance();
         String tel = new String("0687359366");
         Groupe g1 = new Groupe("DIRECTEUR");
         Groupe g2 = new Groupe("RH");
@@ -76,6 +76,6 @@ public class AppTest
         }
         catch(ClassNotFoundException | IOException e){
 
-        }*/
+        }
 
     }}
